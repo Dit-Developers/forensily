@@ -32,12 +32,12 @@ The collected data is organized into an HTML report for easy review.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Dit-Developers/forensic-script.git
-   cd forensic-script
+   git clone https://github.com/Dit-Developers/forensily.git
+   cd forensily
    ```
 2. Ensure the script has execute permissions:
    ```bash
-   chmod +x forensic.sh
+   chmod +x forensily.sh
    ```
 
 ## Usage
