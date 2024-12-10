@@ -1,5 +1,5 @@
 # forensily
-A suite of Tools of Live Forensics for - Linux (Bash) | 
+A suite of Tools of Live Forensics for - Linux (Bash) |
 
 # Forensic Data Collection Script
 
@@ -43,7 +43,7 @@ The collected data is organized into an HTML report for easy review.
 ## Usage
 1. Run the script:
    ```bash
-   ./forensic.sh
+   ./forensily.sh
    ```
 2. The script will:
    - Display an ASCII art banner and reference links.
@@ -73,6 +73,8 @@ The `forensic.html` file will include sections such as:
 ██║     ╚██████╔╝██║  ██║███████╗██║ ╚████║███████║██║███████╗██║   
 ╚═╝      ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚══════╝╚═╝╚══════╝╚═╝   
 ```
+## Tool ScrenShot
+![Tool Screenshot](forensily.PNG)
 
 ## References
 - **GitHub**: [Dit-Developers](https://github.com/Dit-Developers/)
